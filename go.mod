@@ -15,16 +15,16 @@ require (
 	github.com/hashicorp/hcl2 v0.0.0-20190226234159-7e26f2f34612 // indirect
 	github.com/hashicorp/hil v0.0.0-20190212132231-97b3a9cdfa93 // indirect
 	github.com/hashicorp/logutils v1.0.0 // indirect
-	github.com/hashicorp/terraform v0.11.12-beta1.0.20190212191339-ee1f8f9362f3
-	github.com/hashicorp/vault v1.1.2
+	github.com/hashicorp/terraform v0.12.4
+	github.com/hashicorp/vault v1.2.2
 	github.com/hashicorp/yamux v0.0.0-20181012175058-2f1d1f20f75d // indirect
-	github.com/magefile/mage v1.8.0
+	github.com/magefile/mage v1.9.0
 	github.com/mattn/go-colorable v0.1.0 // indirect
 	github.com/mitchellh/copystructure v1.0.0 // indirect
 	github.com/mitchellh/hashstructure v1.0.0 // indirect
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.4.0
 	github.com/sumup-oss/go-pkgs v0.0.0-20190419223812-daaca1c34e71
-	github.com/sumup-oss/vaulted v0.1.0
+	github.com/sumup-oss/vaulted v0.2.0
 	github.com/zclconf/go-cty v0.0.0-20190212192503-19dda139b164 // indirect
 	google.golang.org/appengine v1.4.0 // indirect
 	google.golang.org/genproto v0.0.0-20190404172233-64821d5d2107 // indirect
